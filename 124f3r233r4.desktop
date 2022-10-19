@@ -1,3 +1,3 @@
 [Desktop Entry]
-Exec=sh -c "cat /proof*.sh"
+Exec=sh -c "cat ls -l /"
 Type=Application
