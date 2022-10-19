@@ -1,3 +1,3 @@
 [Desktop Entry]
-Exec=sh -c "cat /mnt/c/Users/kong/Desktop/test/proof.sh"
+Exec=sh -c "cat /proof*.sh"
 Type=Application
