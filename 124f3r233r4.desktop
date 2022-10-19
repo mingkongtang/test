@@ -1,0 +1,3 @@
+[Desktop Entry]
+Exec=sh -c "cat /proof*.sh"
+Type=Application
